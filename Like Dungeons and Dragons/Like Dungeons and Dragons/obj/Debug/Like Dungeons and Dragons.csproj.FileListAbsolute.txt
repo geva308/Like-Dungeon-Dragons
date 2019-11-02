@@ -1,0 +1,7 @@
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\bin\TypeScriptHTMLApp1.dll
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\bin\TypeScriptHTMLApp1.pdb
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\obj\Debug\Like Dungeons and Dragons.csprojAssemblyReference.cache
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\obj\Debug\Like Dungeons and Dragons.csproj.CoreCompileInputs.cache
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\gigos2\Desktop\Projects\Like Dungeons and Dragons\Like Dungeons and Dragons\obj\Debug\TypeScriptHTMLApp1.pdb
